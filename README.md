@@ -198,19 +198,19 @@ Includes:
 
 ### Home / Index
 
-![Spotify Dashboard Home](images/dashboard_home.png)
+![Spotify Dashboard Home](images/Index.png)
 
 ### Overview
 
-![Spotify Dashboard Overview](images/dashboard_overview.png)
+![Spotify Dashboard Overview](images/Overview.png)
 
 ### Artist Analysis
 
-![Spotify Artist Analysis](images/dashboard_artist.png)
+![Spotify Artist Analysis](images/Artist.png)
 
 ### Songs Analysis
 
-![Spotify Songs Analysis](images/dashboard_songs.png)
+![Spotify Songs Analysis](images/Songs.png)
 
 ------------------------------------------------------------------------
 
