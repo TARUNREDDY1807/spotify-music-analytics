@@ -322,7 +322,11 @@ spotify-music-analytics/
 │
 ├── README.md
 │
-
+├── images/
+│   ├── dashboard_home.png
+│   ├── dashboard_overview.png
+│   ├── dashboard_artist.png
+│   └── dashboard_songs.png
 │
 ├── spotify_cleaned.csv
 ├── spotify_analysis.sql
