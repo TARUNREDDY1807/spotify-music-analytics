@@ -441,7 +441,7 @@ business-oriented analysis.
 
 ## 👨‍💻 Author
 
-**Tarun Reddy B**
+**TARUNREDDY B**
 
 B.Tech -- Artificial Intelligence & Data Science
 
